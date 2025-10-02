@@ -1,16 +1,26 @@
-## Hi there 👋
+## 🚀 Production Tracker Projem
 
-<!--
-**Taha1022-sys/Taha1022-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Production Tracker; üretim süreçlerini takip edebileceğiniz, modern ve sade arayüzüyle ön plana çıkan bir yazılım projesidir. Hem backend API’sini hem de kullanıcı arayüzünü canlı olarak test edebilirsiniz!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Canlı Test Linkleri
+
+[![Swagger API](https://img.shields.io/badge/API%20Test-Swagger-blue?logo=swagger)](https://production-tracker-taha-aee2bubdg9hyg9g6.francecentral-01.azurewebsites.net/index.html)
+> **API Testleri için:** Projenin backend tarafını Swagger arayüzü üzerinden canlı olarak inceleyebilir, API testleri gerçekleştirebilirsiniz.
+
+[![Production Tracker UI](https://img.shields.io/badge/UI%20Test-Vercel-green?logo=vercel)](https://production-tracker-ui-rzl4.vercel.app)
+> **Frontend (UI) Testi için:** Kullanıcı arayüzünü canlı olarak görüntüleyebilir ve uygulamanın fonksiyonlarını test edebilirsiniz.
+
+---
+
+### 🛠️ Kullanılan Teknolojiler
+
+- React.js & Vercel (Frontend)
+- .NET Core & Azure (Backend)
+- Swagger (API Dokümantasyonu)
+- Modern UI/UX
+
+---
+
+Daha fazla proje ve detay için profilimi inceleyebilirsiniz! ⭐
