@@ -41,7 +41,7 @@ Production Tracker; üretim süreçlerini takip edebileceğiniz, modern ve sade 
 
 ### 🛠️ Kullanılan Teknolojiler
 
-- React.js & Vercel (Frontend)
+- React.js, CSS & Vercel (Frontend)
 - .NET Core & Azure (Backend)
 - Swagger (API Dokümantasyonu)
 - Modern UI/UX
